@@ -1,3 +1,6 @@
 # LanguageEditor
-<p>App for localization of forms, controls and texts. Delphi. Features:</p>
-<p>GUI - forms and controls - load & save - external file is prepared paralel with development, used in run-time - external file is language-independent</p>
+<p>Small Win32 GUI app for localization of forms, controls and texts of other apps.</p>
+<p>This project has been made to demonstrate coding capabilities of the owner.</p>
+<p>The app runs on Win32, no additional layer is needed between the app and the operation system.</p>
+<p>Language: Delphi</p>
+<p>IDE: RAD Studio XE8</p>
